@@ -1,2 +1,2 @@
 # Bollokks
-UI Component library made for learning
+UI Component library.
